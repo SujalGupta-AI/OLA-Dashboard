@@ -27,19 +27,19 @@ Ride-hailing services like OLA operate in a highly dynamic environment where eff
 ## Results & Business Recommendation
 
 ### Key Results
-* **Booking Success:** Out of total bookings, only **[Insert %]** were successfully completed, highlighting a significant drop-off in the ride lifecycle.
-* **Cancellation Insights:** Customer cancellations accounted for **[Insert %]**, while driver cancellations accounted for **[Insert %]**. The most common reason for driver cancellation was **[Insert top reason, e.g., "Customer location too far"]**.
+* **Booking Success:** Out of total bookings, only **65%** were successfully completed, highlighting a significant drop-off in the ride lifecycle.
+* **Cancellation Insights:** Customer cancellations accounted for **36%**, while driver cancellations accounted for **64%**. The most common reason for driver cancellation was **Personal & Car Related Issue, Customer Related Isuue**.
 
 
-* **Vehicle Performance:** The **[Insert Category, e.g., Prime Sedan]** category generated the highest revenue, while **[Insert Category, e.g., Auto]** saw the highest volume of bookings.
+* **Vehicle Performance:** The **Prime Sedan** category generated the highest revenue, while **Auto** saw the highest volume of bookings.
 
 
-* **Payment Methods:** **[Insert Payment Type, e.g., UPI]** was the preferred payment method for successful rides.
+* **Payment Methods:** **Cash, UPI** was the preferred payment method for successful rides.
 
 
 ### Business Recommendations
 1. **Reduce Driver Cancellations:** Implement a tiered incentive program that rewards drivers for maintaining a high ride acceptance and completion rate, particularly during peak hours or in high-demand zones.
-2. **Optimize Fleet Distribution:** Since **[Insert Top Vehicle Category]** shows the highest demand, focus onboarding and promotional efforts on expanding this specific fleet segment.
+2. **Optimize Fleet Distribution:** Since **Prime Sedan** shows the highest demand, focus onboarding and promotional efforts on expanding this specific fleet segment.
 3. **Customer Retention:** Introduce a dynamic pricing or discount model to re-engage customers who frequently cancel rides due to high wait times. 
 4. **Investigate Incomplete Rides:** Conduct a deeper dive into the specific geographic zones or times of day where "Driver not found" statuses spike to optimize driver positioning.
 
